@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* Library for use GDPR dialog from user for personalized ads and non personalized ads.Library for use GDPR dialog from user for personalized ads and non personalized ads.

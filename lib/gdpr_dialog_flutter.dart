@@ -2,8 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
 class GdprDialogFlutter {
-  static const MethodChannel _channel =
-      const MethodChannel('gdpr_dialog_flutter');
+  static const MethodChannel _channel = MethodChannel('gdpr_dialog_flutter');
 
   // Create singleton class
   GdprDialogFlutter._();
